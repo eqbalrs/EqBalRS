@@ -1,0 +1,29 @@
+coat: {}
+gift_cards:
+  nb_true:
+    dim: 15.0
+    lam: 0.0020318358298265986
+  nb_true-at:
+    dim: 15.0
+    epsilon: 0.07814989008992036
+    lam: 5.7847457853087736e-05
+movie:
+  nb_true:
+    dim: 20.0
+    lam: 2.28069588857812e-06
+  nb_true-at:
+    dim: 20.0
+    epsilon: 0.0033601237200293547
+    lam: 1.244372436579104e-05
+pantry:
+  nb_true:
+    dim: 35.0
+    lam: 5.2099794429254386e-05
+yahoo:
+  nb_true:
+    dim: 35.0
+    lam: 5.2099794429254386e-05
+  nb_true-at:
+    dim: 35.0
+    epsilon: 0.004792414358623589
+    lam: 5.2099794429254386e-05

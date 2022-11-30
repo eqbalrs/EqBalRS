@@ -1,0 +1,9 @@
+eta: 0.01
+batch_size: 1024
+max_iters: 100
+num_sims: 1
+n_trials: 10
+pre_iters: 50
+post_iters: 10
+post_steps: 5
+threshold_pop: 430
